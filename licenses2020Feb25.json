@@ -1,0 +1,411 @@
+[
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@eva-design/eva",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/eva-design/eva.git",
+    "comment": "1.4.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@react-native-community/art",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "https://github.com/react-native-community/react-native-art",
+    "comment": "1.1.2"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@react-native-community/masked-view",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/react-native-community/react-native-masked-view.git",
+    "comment": "0.1.5"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@ui-kitten/components",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/akveo/react-native-ui-kitten.git",
+    "comment": "4.4.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@ui-kitten/eva-icons",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/akveo/react-native-ui-kitten.git",
+    "comment": "4.4.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@ui-kitten/moment",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/akveo/react-native-ui-kitten.git",
+    "comment": "4.4.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "color-convert",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/Qix-/color-convert.git",
+    "comment": "2.0.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "expo",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/expo/expo.git",
+    "comment": "36.0.2"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "expo-secure-store",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "https://github.com/expo/expo.git",
+    "comment": "8.0.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "firebase",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "Apache-2.0",
+    "link": "git+https://github.com/firebase/firebase-js-sdk.git",
+    "comment": "7.9.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "mem",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/sindresorhus/mem.git",
+    "comment": "6.0.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "moment",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/moment/moment.git",
+    "comment": "2.24.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "punycode",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/bestiejs/punycode.js.git",
+    "comment": "2.1.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/facebook/react.git",
+    "comment": "16.9.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-dom",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/facebook/react.git",
+    "comment": "16.9.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "n/a",
+    "link": "n/a",
+    "comment": "skipping react-native@https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz (invalid semversion)"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-barcode-expo",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "Apache-2.0",
+    "link": "git+https://github.com/pthongtaem/react-native-barcode-builder.git",
+    "comment": "1.0.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-better-touchable",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/alexandrius/react-native-better-touchable.git",
+    "comment": "0.0.3"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-calendar-strip",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/BugiDev/react-native-calendar-strip.git",
+    "comment": "1.4.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-floating-action",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/santomegonzalo/react-native-floating-action.git",
+    "comment": "1.20.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-gesture-handler",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/software-mansion/react-native-gesture-handler.git",
+    "comment": "1.5.6"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-markdown-display",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/iamacup/react-native-markdown-display.git",
+    "comment": "5.1.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-masked-view",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "link": "git+ssh://git@github.com/gilbox/react-native-masked-view.git",
+    "comment": "0.2.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-reanimated",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/kmagiera/react-native-reanimated.git",
+    "comment": "1.4.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-safe-area-context",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/th3rdwave/react-native-safe-area-context.git",
+    "comment": "0.6.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-screens",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/kmagiera/react-native-screens.git",
+    "comment": "2.0.0-alpha.12"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-svg",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/react-native-community/react-native-svg.git",
+    "comment": "9.13.3"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-native-web",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git://github.com/necolas/react-native-web.git",
+    "comment": "0.11.7"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-navigation",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+ssh://git@github.com/react-navigation/react-navigation.git",
+    "comment": "4.2.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-navigation-stack",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/react-navigation/react-navigation-stack.git",
+    "comment": "2.2.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "react-navigation-tabs",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/react-navigation/tabs.git",
+    "comment": "2.8.1"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "remove-markdown",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/stiang/remove-markdown.git",
+    "comment": "0.3.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "superagent",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git://github.com/visionmedia/superagent.git",
+    "comment": "5.2.2"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@babel/core",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "https://github.com/babel/babel/tree/master/packages/babel-core",
+    "comment": "7.8.4"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@types/react",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "comment": "16.9.23"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@types/react-native",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "comment": "0.60.31"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@typescript-eslint/eslint-plugin",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/typescript-eslint/typescript-eslint.git",
+    "comment": "2.21.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "@typescript-eslint/parser",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "BSD-2-Clause",
+    "link": "git+https://github.com/typescript-eslint/typescript-eslint.git",
+    "comment": "2.21.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "babel-preset-expo",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/expo/expo.git",
+    "comment": "8.0.0"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "eslint-plugin-react",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "MIT",
+    "link": "git+https://github.com/yannickcr/eslint-plugin-react.git",
+    "comment": "7.18.3"
+  },
+  {
+    "department": "kessler",
+    "relatedTo": "stuff",
+    "name": "typescript",
+    "licensePeriod": "perpetual",
+    "material": "material",
+    "licenseType": "Apache-2.0",
+    "link": "git+https://github.com/Microsoft/TypeScript.git",
+    "comment": "3.6.5"
+  }
+]

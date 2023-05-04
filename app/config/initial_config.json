@@ -1,0 +1,14 @@
+{
+  "general": {
+    "darkTheme": {
+      "initalValue": "false",
+      "type": "checkbox"
+    }
+  },
+  "news": {
+      "notifications": {
+          "initialValue": "true",
+          "type": "checkbox"
+      }
+   }
+}
